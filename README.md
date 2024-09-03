@@ -3,6 +3,7 @@ This project involves data processing and analysis of order data using Python an
 
 # Data Import:
 
+Downloaded orders.csv file from kaggle.com
 Read CSV file orders.csv into a Pandas DataFrame.
 
 # Handling Null Values:
