@@ -19,7 +19,7 @@ Derived new columns: discount, sale_price, and profit from existing data.
 
 Converted the order_date column from object type to datetime format for accurate date handling.
 
-# Column Removal:
+## Column Removal:
 
 Dropped unnecessary columns: list_price, cost_price, and discount_percent.
 
