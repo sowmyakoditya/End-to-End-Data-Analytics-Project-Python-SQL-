@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 This project involves data processing and analysis of order data using Python and SQL Server. The following steps were executed:
 
 # Data Import:
